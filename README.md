@@ -1,4 +1,4 @@
-# Covid-19 Dashboard
+# Covid-19 Dashboard ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 This Tableau project provides an in-depth analysis of Covid-19 data, highlighting key statistics such as infection rates, vaccination percentages, death counts, and the virus reproduction rate. The dashboard offers a comprehensive overview of the pandemic’s impact across different income levels, countries, and continents.
 
 ## Dashboard Overview
