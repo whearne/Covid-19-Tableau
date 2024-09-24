@@ -2,6 +2,8 @@
 This Tableau project provides an in-depth analysis of Covid-19 data, highlighting key statistics such as infection rates, vaccination percentages, death counts, and the virus reproduction rate. The dashboard offers a comprehensive overview of the pandemic’s impact across different income levels, countries, and continents.
 
 ## Dashboard Overview
+
+[View the Tableau Dashboard here](https://public.tableau.com/app/profile/william.hearne/viz/Covid19Dashboard_17254677942960/Dashboard1).
 ### **1. Statistics Based on Income**
 - **Visualisation**: Bar charts
 - **Details**: Displays Covid-19 statistics categorised by income levels (Low, Lower-middle, Upper-middle, High). It includes:
